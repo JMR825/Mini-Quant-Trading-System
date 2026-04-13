@@ -38,8 +38,8 @@ This project implements a basic quantitative trading strategy using:
 Signals:
 BUY
 BUY
-
-Total Profit: X
+SELL
+Total Profit: X 
 
 ---
 
